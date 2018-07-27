@@ -1,4 +1,4 @@
-# oauth2-server
+# @compwright/oauth2-server
 
 [![npm Version][npm-image]][npm-url]
 [![npm Downloads][downloads-image]][downloads-url]
@@ -8,6 +8,7 @@
 
 Complete, compliant and well tested module for implementing an OAuth2 server in [Node.js](https://nodejs.org).
 
+> Note: this is a forked version of `oauth2-server` with security updates applied.
 
 ## Installation
 
