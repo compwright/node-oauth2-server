@@ -51,7 +51,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=4.0"
+    "node": ">=6"
   },
   "scripts": {
     "pretest": "eslint lib test --fix",
