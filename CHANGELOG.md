@@ -1,5 +1,10 @@
 ## Changelog
 
+### 3.0.1
+* Upgraded dependencies to fix security issues
+* Switched from jshint to eslint
+* Fixed code formatting inconsistencies
+
 ### 3.0.0
 * Complete re-write, with Promises and callback support
 * Dropped support for node v0.8, v0.10, v0.12
